@@ -16,9 +16,9 @@ This is an Automation based project made with python ans its library Scrapy. Its
 ### First go to directory here my main directory is careervira 
 
 1. Create csv file
- -scrapy crawl Careervira -o items.csv 
+ ->  scrapy crawl Careervira -o items.csv 
 
 2. Create json file
- -scrapy crawl Careervira -o items.csv
+ ->  scrapy crawl Careervira -o items.csv
  
  
