@@ -5,11 +5,11 @@ This is an Automation based project made with python ans its library Scrapy. Its
  - pip install pipenv
  - (Go to the directory where you want to create project
  - virtualenv .
- -.\scripts\activate
+ - .\scripts\activate
 
 ## Install Libraries
 1. Scrapy
- -pip install scrapy
+ - pip install scrapy
  
 ## Command to create csv file 
 
